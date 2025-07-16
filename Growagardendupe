@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tbau123/spawnerpets/refs/heads/main/0a1a93e446dd6c433f8b72ddcbfe2da4.txt"))()
